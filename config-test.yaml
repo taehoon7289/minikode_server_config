@@ -1,3 +1,4 @@
 const:
   profile: test
   log: true
+  init-command: true
