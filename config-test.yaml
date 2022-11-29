@@ -2,3 +2,4 @@ const:
   profile: test
   log: true
   init-command: true
+  test-flag: true
